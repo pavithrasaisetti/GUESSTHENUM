@@ -4,9 +4,9 @@ This is a fun number-guessing game where players try to guess a randomly generat
 
 **FEATURES:**
 
--Multiple Difficulty Levels (Easy, Medium, Hard)
--Countdown Timer (Adjusts based on difficulty)
--Funny Hint Messages to make the game more enjoyable
+- Multiple Difficulty Levels (Easy, Medium, Hard)
+- Countdown Timer (Adjusts based on difficulty)
+- Funny Hint Messages to make the game more enjoyable
 -Red Alert Warning when only 10 seconds remain
 -Responsive Design for a smooth user experience
 -Restart & Home Buttons to navigate easily
