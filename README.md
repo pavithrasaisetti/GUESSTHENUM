@@ -18,12 +18,12 @@ This is a fun number-guessing game where players try to guess a randomly generat
 
 **How to Play:**
 
-1.Select your difficulty level (Easy, Medium, or Hard).
-2.Click the Start Game button.
-3.Enter a number between 1 and 100 and hit Submit Guess.
-4.The game will tell you if your guess is too high 📈 or too low 📉.
-5.You have limited attempts and a countdown timer! ⏳
-6.If you guess correctly, you win 🎉. Otherwise, try again!
+- Select your difficulty level (Easy, Medium, or Hard).
+- Click the Start Game button.
+- Enter a number between 1 and 100 and hit Submit Guess.
+- The game will tell you if your guess is too high 📈 or too low 📉.
+- You have limited attempts and a countdown timer! ⏳
+- If you guess correctly, you win 🎉. Otherwise, try again!
 
 **DEMO-SCREENSHOTS:**
 ![image](https://github.com/user-attachments/assets/5df747a6-4202-4015-b1a6-801540b012d6)
