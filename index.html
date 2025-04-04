@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background">
+        <div class="container">
+            <div class="game-card">
+                <h1>🎮 <span class="neon-text">Guess the Number!</span></h1>
+                <p>Can you find the hidden number between 1 and 100?</p>
+
+                <label for="difficulty">Choose difficulty:</label>
+                <select id="difficulty">
+                    <option value="easy">Easy (10 attempts)</option>
+                    <option value="medium">Medium (7 attempts)</option>
+                    <option value="hard">Hard (5 attempts)</option>
+                </select>
+
+                <button id="startBtn">🚀 Start Game</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
